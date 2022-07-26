@@ -1,6 +1,7 @@
 # This is an auto-generated file. DO NOT EDIT
 apiVersion: v1
 data:
+  sidecar.automountServiceAccountToken: "false"
   sidecar.container: |
     args:
     - |
